@@ -1,0 +1,4 @@
+# ASCII artwork spacing is intentional; preserve the source drawings.
+art/*.txt -whitespace
+source-art/*.txt -whitespace
+* text=auto eol=lf
