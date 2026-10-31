@@ -132,6 +132,4 @@ Installation leaves an existing Omarchy installation completely untouched, inclu
 
 If you separately want to use an artwork in your existing Omarchy setup, first inspect your installed version's supported user artwork location and format. Back up any destination artwork before manually copying a selected `art/*.txt` file into that **user-owned** location. Never overwrite a whole configuration directory, replace stock configuration with this repository, or edit packaged `/usr/share/omarchy` files. Alternatively, leave Omarchy alone and use this application's `--art-dir` with your own independent directory.
 
-## Licensing and provenance
 
-Original program, installer, and documentation code are MIT-licensed; see [LICENSE](LICENSE). **Third-party ASCII artwork is not covered by that MIT grant.** The supplied art source is <https://asciiart.website/cat.php?category_id=180>; authorship and redistribution rights have not been verified. See [THIRD_PARTY_ART.md](THIRD_PARTY_ART.md) and retain embedded signatures. Do not assume that public availability permits redistribution, sublicensing, or commercial use. Keep distributions private until the artwork rights are resolved.
